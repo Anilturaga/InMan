@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "InMan",
+    "description": "Inventory Manager",
+    "slug": "snack-a226c55c-e958-49fc-bead-7d36d5488f30",
+    "privacy": "unlisted",
+    "sdkVersion": "36.0.0",
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/logo.png",
+    "splash":{
+      "image": "./assets/logo.png",
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "ttf",
+        "mp4",
+        "otf",
+        "xml"
+      ]
+    },
+    "ios": {
+      "bundleIdentifier": "com.bayer.inman",
+      "buildNumber": "1.0.1",
+      "supportsTablet": true
+    },
+    "android":{
+      "package": "com.bayer.inman",
+      "versionCode": 1
+    }
+  }
+}
